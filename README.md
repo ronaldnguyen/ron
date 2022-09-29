@@ -1,11 +1,11 @@
 <h1>Hi, I'm Ronald! </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 IT/Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/ronaldnguyen/ActiveDirectoryLab)
   - [Azure Sentinel Home Lab](https://github.com/ronaldnguyen/SentinelLab/blob/main/README.md)
 
-<h2>📺 Certifications</h2>
+<h2>🥇 Certifications</h2>
 
 - Pursuing Security+ SY0-601
 - Pursuing A+ Certification (220-1101/220-1102)
