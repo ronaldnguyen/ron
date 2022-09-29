@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/ronaldnguyen/ActiveDirectoryLab)
+  - [Azure Sentinel Home Lab](https://github.com/ronaldnguyen/SentinelLab/blob/main/README.md)
 
 <h2>📺 Certifications</h2>
 
