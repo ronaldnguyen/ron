@@ -9,6 +9,7 @@
 
 - Pursuing Security+ SY0-601
 - Pursuing A+ Certification (220-1101/220-1102)
+- [Agile Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/5QiaMtZ4k8ngYKn4D_JPMorgan%20Chase%20&%20Co._gb3eJKojHkkbZWWmF_1665632959371_completion_certificate.pdf)
 
 
 <h3 align="left">Connect with me:</h3>
