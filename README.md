@@ -4,7 +4,7 @@
 
   - [Active Directory Home Lab](https://github.com/ronaldnguyen/ActiveDirectoryLab)
   - [Azure Sentinel Home Lab](https://github.com/ronaldnguyen/SentinelLab/blob/main/README.md)
-  - [Nessus Home Lab]()
+  - [Vulnerability Scanner Home Lab](https://github.com/ronaldnguyen/VulnerabilityScannerHomeLab/blob/main/README.md)
 <h2>🥇 Certifications</h2>
 
 - Pursuing Security+ SY0-601
